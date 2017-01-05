@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jbig2-imageio">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jbig2-imageio.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

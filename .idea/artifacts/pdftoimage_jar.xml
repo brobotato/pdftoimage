@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pdftoimage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pdftoimage_jar</output-path>
+    <root id="archive" name="pdftoimage.jar">
+      <element id="module-output" name="pdftoimage" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jbig2-imageio.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/pdfbox.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
